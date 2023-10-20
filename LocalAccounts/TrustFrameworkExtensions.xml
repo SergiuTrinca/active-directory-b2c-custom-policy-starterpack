@@ -9,11 +9,13 @@
   PublicPolicyUri="http://expensereportdevb2c.onmicrosoft.com/B2C_1A_TrustFrameworkExtensions">
   
   <BasePolicy>
-    <TenantId>expensereportdevb2c.onmicrosoft.com</TenantId>
+    <TenantId>expensereportdevb2c.onmicrosoft.com</TenantId>   
     <PolicyId>B2C_1A_TrustFrameworkLocalization</PolicyId>
   </BasePolicy>
   <BuildingBlocks>
+ 
 
+    
   </BuildingBlocks>
 
   <ClaimsProviders>
