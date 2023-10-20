@@ -30,7 +30,7 @@
             <Item Key="IdTokenAudience">00af4715-d1af-4b87-9659-ef9e33a03795</Item>
           </Metadata>
           <InputClaims>
-            <InputClaim ClaimTypeReferenceId="client_id" DefaultValue="ProxyIdentityExperienceFrameworkAppId" />
+            <InputClaim ClaimTypeReferenceId="client_id" DefaultValue="85836321-7cc2-47e5-a0e2-df83fe3dbcfd" />
             <InputClaim ClaimTypeReferenceId="resource_id" PartnerClaimType="resource" DefaultValue="00af4715-d1af-4b87-9659-ef9e33a03795" />
           </InputClaims>
         </TechnicalProfile>
@@ -38,7 +38,7 @@
     </ClaimsProvider>
 
 
-    
+
   </ClaimsProviders>
 
     <!--UserJourneys>
